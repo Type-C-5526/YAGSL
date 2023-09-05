@@ -1,0 +1,26 @@
+{
+  "drive": {
+    "type": "neo",
+    "id": 21,
+    "canbus": null
+  },
+  "angle": {
+    "type": "talonfx",
+    "id": 6,
+    "canbus": null
+  },
+  "encoder": {
+    "type": "dutycycle",
+    "id": 1,
+    "canbus": null
+  },
+  "inverted": {
+    "drive": true,
+    "angle": true
+  },
+  "absoluteEncoderOffset": 50,
+  "location": {
+    "front": 13.78,
+    "left": -13.78
+  }
+}
